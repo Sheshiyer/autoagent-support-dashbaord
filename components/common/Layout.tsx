@@ -24,7 +24,7 @@ const MenuIcon = () => (
 
 const navigationItems = [
   { name: "Dashboard", href: "/" },
-  { name: "Conversations", href: "/conversations" },
+  { name: "Tickets", href: "/tickets" },
   { name: "Customers", href: "/customers" },
   { name: "Knowledge", href: "/knowledge" },
   { name: "Analytics", href: "/analytics" },
